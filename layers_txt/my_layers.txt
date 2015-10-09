@@ -3,7 +3,7 @@
   [
     {
       "type":"LayerGroup",
-      "title:"マイレイヤ",
+      "title":"Arranged Layer",
       "entries": [
         {
           "type": "Layer",
