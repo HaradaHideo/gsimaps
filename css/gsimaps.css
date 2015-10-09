@@ -365,6 +365,11 @@ input[type=checkbox].normalcheck + label {
 	width:10em;
 }
 
+#header .logoarea a
+{
+	color:blue!important;
+}
+
 #header .logoarea #logoimage
 {
 	height:32px;
