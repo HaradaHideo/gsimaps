@@ -362,6 +362,7 @@ input[type=checkbox].normalcheck + label {
 	position:absolute;
 	left:4px;
 	top:5px;
+	width:10em;
 }
 
 #header .logoarea #logoimage
