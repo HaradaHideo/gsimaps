@@ -3924,6 +3924,7 @@ form {
 	font-size:18px;
 	color:#fff;
 	line-height:18px;
+	nowrap!imortant;
 }
 
 #title_logo_lower {
